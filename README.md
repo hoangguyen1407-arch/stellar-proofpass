@@ -65,6 +65,9 @@ The app handles these error types:
 ---
 
 ## 5. Screenshots
+<img width="550" height="599" alt="connect-wallet" src="https://github.com/user-attachments/assets/0f49ff46-36fd-4dbb-a35d-e2679d64e963" />
+<img width="550" height="483" alt="runcheck" src="https://github.com/user-attachments/assets/3dae398d-a948-4250-be5a-48c8ba6a16f5" />
+
 
 ## Final Note
 
