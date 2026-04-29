@@ -66,3 +66,6 @@ The app handles these error types:
 
 ## 5. Screenshots
 
+## Final Note
+
+This project demonstrates event pass minting and organizer check-in on Stellar Testnet.
